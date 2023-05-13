@@ -1,0 +1,2 @@
+# Machine-Learning
+Agriculture plays a crucial role in the economy of any country. However, farmers often face challenges in determining which crops to grow based on various factors such as soil type, climate changes, and weather patterns. To address this issue, we have developed a crop recommendation system that can provide farmers with personalized recommendations based on their location, soil type, and weather patterns.  This system can help farmers make informed decisions about which crops to grow and when, leading to higher crop yields and increased profits.
